@@ -1,0 +1,15 @@
+{
+  "name": "picoabsolutevanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^1.5.7",
+    "sass": "^1.58.3"
+  }
+}
